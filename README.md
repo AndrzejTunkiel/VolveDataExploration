@@ -6,6 +6,12 @@ This repository contains source code for methods mentioned in the OMAE2020-XXXX 
 
 Code is provided as Jupyter Notebook
 
+#### Find attributes, plot charts
+
+This notebook allows one to:
+* Search all logs for a given attribute
+* Generate charts as PNG files for given attribute
+
 ## Data for exploration
 
 Equinor released Volve dataset without any preprocessing. This makes working with real-time data difficult. This initiated an effort to convert WITSML files into CSV files, which are considered a basic standard in Data Science.
