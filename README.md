@@ -1,6 +1,6 @@
 # VolveDataExploration
 
-This repository contains source code for methods mentioned in the OMAE2020-XXXX paper titled *Drilling Dataset Exploration, Visualization, Processing and Interpretation Using Volve Field Data*.
+This repository contains source code for methods mentioned in the OMAE2020-18151 paper titled *Drilling Dataset Exploration, Visualization, Processing and Interpretation Using Volve Field Data*.
 
 ## Code
 
